@@ -57,6 +57,14 @@ header{
 .img{
     height: 400px;
 }
+
+.prot{
+    gap: 50px;
+    margin-left: 50px;
+}
+.r{
+    gap: 10px;
+}
 .img1{
     width: 50px;
     display: flex;
@@ -65,13 +73,6 @@ header{
     align-items: center;
     
     
-}
-.prot{
-    gap: 50px;
-    margin-left: 50px;
-}
-.r{
-    gap: 10px;
 }
 
 
