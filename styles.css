@@ -63,17 +63,6 @@ header{
 .r{
     gap: 10px;
 }
-.img1{
-    width: 50px;
-    display: flex;
-    text-align: center;
-    gap: 25px;
-    align-items: center;
-    
-    
-}
-
-
 .contact{
     margin-top: 50px;
     margin-left: 80px;
