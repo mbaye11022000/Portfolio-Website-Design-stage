@@ -12,7 +12,7 @@ nav{
 
 header{
     background-color: rgb(213, 250, 246);
-    height: 480px;
+    height: 490px;
     margin-top: -60px;
 
 }
@@ -66,9 +66,9 @@ header{
     gap: 10px;
 }
 
-.contact{
+.Contact{
     margin-top: 50px;
-    margin-left: 80px;
+    margin-left: 160px;
     background-color: rgb(213, 250, 246);
 
 }
