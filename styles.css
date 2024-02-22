@@ -45,19 +45,24 @@ margin-bottom: 10%;
 margin-left: 5%;
 }
 .card{
-    margin-left:130px;
-    width: 650px;
+    
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 10%;
+    width: 100%;
+    justify-content: center; 
+    margin-left: 10px;
+
+    
     
   }
   .prot{
-    gap: 10px;
-    margin-left: 10px;
+    gap: 30px;
+    margin-left: 20px;
 }
 
 .Contact{
     
-   margin-left: 15%;
+   margin-left: 5%;
     background-color: rgb(213, 250, 246);
 
 }
@@ -77,8 +82,16 @@ footer{
 }
 h2{
     color: rgba(69, 123, 157, 1);
-    ;
+    
 }
+.project {
+    
+    justify-content: center; 
+    
+  }
+  
+
+
 
 
 
