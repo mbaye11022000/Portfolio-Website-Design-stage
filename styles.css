@@ -5,29 +5,24 @@ nav{
     
     
 }
-.nav-link {
-    margin-left: 20px;
-}
-
 
 header{
     background-color: rgb(213, 250, 246);
-    height: 550px;
-    margin-top: -10px;
-   
+width:auto;
+
 
 }
 
-
-
 #ll{
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     background-color:#457B9D;
     border-radius: 10%;
     margin-right: 50%;
-    
-    
+}
+.img{
+    height: 300px;
+    margin-left: 20%;
 }
 
 .btn{
@@ -41,88 +36,47 @@ header{
 #mg{
     color: #457B9D ;
 }
-.propos{
-    margin-top: 60px;
-    margin-left: 30px;
-
-}
-
-.Sk{
-    background-color: rgb(213, 250, 246);
-    text-align: center;
-    height: 300px;
-}
-
-
-.img{
-    height: 300px;
-}
-
-.prot{
-    gap: 50px;
-    margin-left: 50px;
-}
 .r{
     gap: 10px;
 }
+.p1{
+margin-bottom: 10%;
+margin-left: 5%;
+}
+.card{
+    margin-left: 30%;
+    width: 300px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .prot{
+    gap: 10px;
+    margin-left: 10px;
+}
 
 .Contact{
-    margin-top: 50px;
-    margin-left: 160px;
+    
+   margin-left: 12%;
     background-color: rgb(213, 250, 246);
 
 }
+
 footer{
     background-color: rgb(213, 250, 246);
     height: 250px;
 
 }
-.card{
-    margin-left: 10%;
-    width: 365px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-  }
-  .img-thumbnail{
-    margin-right: 80%;
-  }
- 
+
+.custom-bg-color {
+    background-color: rgb(213, 250, 246);
+}
+.p{
+    color: rgba(69, 123, 157, 1);
+
+}
+h2{
+    color: rgba(69, 123, 157, 1);
+    ;
+}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
